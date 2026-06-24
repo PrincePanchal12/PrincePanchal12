@@ -3,23 +3,21 @@
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0a3d62&height=220&section=header&text=Prince%20Panchal&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20Intern%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=60&descColor=8b949e&descSize=18" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=🤖+Building+AI+Automation+Solutions;🌐+Full+Stack+Web+Developer;📊+Data+Analyst+%26+ML+Engineer;🚀+Software+Dev+Intern+%40+Gurugram;💡+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
-</a>
+<!-- Typing Animation — GitHub safe via readme-typing-svg (Vercel hosted) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=🤖+Building+AI+Automation+Solutions;🌐+Full+Stack+Web+Developer;📊+Data+Analyst+%26+ML+Engineer;🚀+Software+Dev+Intern+%40+Gurugram;💡+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Badges Row -->
+<!-- Status Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=princepanchal12&label=Profile+Views&color=58a6ff&style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- Social Links -->
+<!-- Social Buttons -->
 <p>
   <a href="mailto:princepanchal7773@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -40,46 +38,62 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 prince = {
-    "name"       : "Prince Panchal",
-    "location"   : "Gurugram, Haryana 🇮🇳",
-    "role"       : "Software Dev Intern — AI Automations & Solutions",
-    "freelance"  : "Cleanomatics Tech Solutions",
-    "education"  : "MCA Graduate",
-    "focus"      : [
+    "name"      : "Prince Panchal",
+    "location"  : "Gurugram, Haryana 🇮🇳",
+    "role"      : "Software Dev Intern — AI Automations & Solutions",
+    "freelance" : "Cleanomatics Tech Solutions",
+    "education" : "MCA Graduate",
+    "focus"     : [
                     "AI Automation Pipelines",
                     "Agentic AI Systems",
                     "Full Stack Web Dev",
                   ],
-    "current"    : "Building intelligent AI solutions at an internship",
-    "fun_fact"   : "I automate things so I can focus on ☕",
+    "current"   : "Building intelligent AI solutions",
+    "fun_fact"  : "I automate things so I can focus on ☕",
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 What I'm Currently Doing
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<table>
+<tr>
+<td valign="top" width="65%">
 
-- 🏢 **Software Dev Intern** at a Gurugram-based tech firm
-  - Working on **AI Automation** systems & intelligent solutions
-  - Building agentic workflows using LLMs & orchestration tools
-
-- 🤖 **AI Automation** — LangGraph, n8n, LLM pipelines, RAG systems
+- 🏢 **Software Dev Intern** — Gurugram-based tech firm
+  - 🤖 Building **AI Automation** pipelines & intelligent solutions
+  - 🧠 Designing **agentic workflows** using LLMs & orchestration tools
 
 - 🌐 **Full Stack** — React, FastAPI, Django, Supabase, Node.js
 
-- 📊 **CRM & Business** — Zoho CRM customizations, B2B outreach automation
+- 📊 **CRM & Business Automation** — Zoho CRM, B2B outreach systems
 
-- 🌱 **Learning** — Advanced agentic AI, LLM fine-tuning, cloud deployments
+- 🌱 **Learning** — Advanced agentic AI, LLM fine-tuning, RAG systems
 
-<br clear="right"/>
+</td>
+<td valign="top" width="35%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="ai gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,7 +143,7 @@ prince = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princepanchal12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=princepanchal12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
 
 ---
@@ -142,13 +156,11 @@ prince = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/princepanchal12/princepanchal12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepanchal12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </div>
-
-> ⚠️ To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo. It auto-generates the SVG on a schedule.
 
 ---
 
@@ -156,11 +168,13 @@ prince = {
 
 <div align="center">
 
-<img width="400" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+**I love connecting with developers, builders & founders.**
+<br/>
+**Got an AI project? Want to build something intelligent together?**
 
 <br/>
-
-**Got an AI project? Want to build something intelligent together?**
 
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princepanchal7773@gmail.com)
 &nbsp;
@@ -171,6 +185,6 @@ prince = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:1a1a2e,100:0d1117&height=120&section=footer" />
-  <sub>⚡ Crafted with passion by Prince Panchal — Gurugram, India</sub>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:1a1a2e,100:0d1117&height=120&section=footer" />
+  <sub>⚡ Crafted with passion by Prince Panchal · Gurugram, India</sub>
 </div>
