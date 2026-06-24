@@ -59,9 +59,8 @@
 ```typescript
 const Prince = {
   name      : "Prince Panchal",
-  title     : "Software Dev Intern — AI & Automation",
-  company   : "Gurugram-based Tech Firm 🏙️",
-  freelance : "Cleanomatics Tech Solutions",
+  title     : "Software Developer Intern — AI & Automation",
+  company   : ""Cleanomatics Tech Solutions 🏙️",
   education : "MCA Graduate 🎓",
 
   currentWork: [
@@ -168,9 +167,9 @@ const Prince = {
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│  🏢  Software Dev Intern                              2025 — Present    │
+│  🏢  Software Developer Intern                       2025 — Present    │
 │      Gurugram, India                                                    │
-│      › Building AI Automation pipelines using LLMs & LangGraph         │
+│      › Building AI Automation pipelines using LLMs & LangGraph          │
 │      › Developing agentic workflows for real-world business solutions   │
 │      › Full stack AI solution development (React + FastAPI)             │
 │                                                                         │
