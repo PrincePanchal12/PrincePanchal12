@@ -5,13 +5,13 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d2137,100:0a0e1a&height=300&section=header&text=Prince%20Panchal&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Automation%20Engineer%20·%20Full%20Stack%20Dev%20·%20Software%20Dev%20Intern&descAlignY=62&descColor=a8b2d8&descSize=20&stroke=00d4ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d2137,100:0a0e1a&height=300&section=header&text=Prince%20Panchal&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=💼%20Software%20Dev%20Intern%20%40%20Cleanomatics%20Tech%20Solutions%20·%20AI%20%26%20Automation%20·%20Full%20Stack&descAlignY=62&descColor=a8b2d8&descSize=18&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🤖+Building+Intelligent+AI+Systems;⚡+Automating+Business+Workflows+with+LLMs;🌐+Full+Stack+Developer+%7C+React+%2B+FastAPI;🚀+Software+Dev+Intern+%40+Gurugram;💡+Turning+Ideas+into+Production-Ready+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=💼+Software+Dev+Intern+%40+Cleanomatics+Tech+Solutions;🤖+Building+AI+Automation+%26+Agentic+Systems;🌐+Full+Stack+Developer+%7C+React+%2B+FastAPI;🧠+LangGraph+%7C+LLMs+%7C+RAG+%7C+n8n;💡+Turning+Business+Problems+into+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ![](https://img.shields.io/badge/🔥_Status-Open_to_Work-00d4ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/📍_Location-Gurugram,_India-00d4ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/💼_Role-AI_Automation_Intern-00d4ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/💼_Role-Software_Dev_Intern_%40_Cleanomatics-00d4ff?style=flat-square&labelColor=0d1117)
 ![](https://komarev.com/ghpvc/?username=princepanchal12&color=00d4ff&style=flat-square&label=👁️_Profile_Views)
 
 </div>
@@ -60,7 +60,8 @@
 const Prince = {
   name      : "Prince Panchal",
   title     : "Software Developer Intern — AI & Automation",
-  company   : ""Cleanomatics Tech Solutions 🏙️",
+  company   : "Cleanomatics Tech Solutions 🏙️",
+  location  : "Gurugram, Haryana 🇮🇳",
   education : "MCA Graduate 🎓",
 
   currentWork: [
@@ -82,10 +83,9 @@ const Prince = {
 
 <br/><br/>
 
-<!-- MINI STATS PILLS -->
 ![](https://img.shields.io/badge/MCA-Graduate-6e40c9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Intern-AI%20%26%20Dev-00d4ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Stack-Full%20Stack%20%2B%20ML-ff6b6b?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Intern_%40-Cleanomatics-00d4ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Stack-Full%20Stack%20%2B%20AI-ff6b6b?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -167,17 +167,16 @@ const Prince = {
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│  🏢  Software Developer Intern                       2025 — Present    │
-│      Gurugram, India                                                    │
-│      › Building AI Automation pipelines using LLMs & LangGraph          │
-│      › Developing agentic workflows for real-world business solutions   │
-│      › Full stack AI solution development (React + FastAPI)             │
+│  💼  Software Developer Intern                        2025 — Present    │
+│      Cleanomatics Tech Solutions · Gurugram, India 🇮🇳                  │
 │                                                                         │
-│  🚀  Freelance Tech Consultant                        2024 — Present    │
-│      Cleanomatics Tech Solutions                                         │
-│      › Delivered e-commerce platforms, CRM systems & AI pipelines      │
-│      › Clients: BludWear, H'Barletto, The Financial Mall               │
-│      › Built B2B AI outreach system: Apollo → LangGraph → Zoho CRM    │
+│      › Building AI Automation pipelines using LLMs & LangGraph         │
+│      › Designing agentic workflows & RAG systems for clients            │
+│      › Full stack development with React, FastAPI & Supabase            │
+│      › Zoho CRM customization, B2B outreach automation                  │
+│      › Delivered: BludWear e-commerce, H'Barletto pitch deck,          │
+│        The Financial Mall CRM training system                           │
+│      › Built B2B AI pipeline: Apollo → LangGraph → Zoho CRM           │
 │                                                                         │
 │  🎓  MCA — Master of Computer Applications                   Graduated │
 │      Data Analysis · Machine Learning · Full Stack Development          │
