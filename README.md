@@ -5,13 +5,13 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d2137,100:0a0e1a&height=300&section=header&text=Prince%20Panchal&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=💼%20Software%20Dev%20Intern%20%40%20Cleanomatics%20Tech%20Solutions%20·%20AI%20%26%20Automation%20·%20Full%20Stack&descAlignY=62&descColor=a8b2d8&descSize=18&stroke=00d4ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d2137&height=280&section=header&text=Prince%20Panchal&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Software%20Dev%20Intern%20%40%20Cleanomatics%20%7C%20AI%20Automation%20%7C%20Full%20Stack&descAlignY=62&descColor=a8b2d8&descSize=17" />
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=💼+Software+Dev+Intern+%40+Cleanomatics+Tech+Solutions;🤖+Building+AI+Automation+%26+Agentic+Systems;🌐+Full+Stack+Developer+%7C+React+%2B+FastAPI;🧠+LangGraph+%7C+LLMs+%7C+RAG+%7C+n8n;💡+Turning+Business+Problems+into+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Software+Dev+Intern+%40+Cleanomatics+Tech+Solutions;Building+AI+Automation+%26+Agentic+Systems;Full+Stack+Developer+%7C+React+%2B+FastAPI;LangGraph+%7C+LLMs+%7C+RAG+%7C+n8n;Turning+Business+Problems+into+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
