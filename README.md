@@ -59,20 +59,20 @@
 ```typescript
 const Prince = {
   name      : "Prince Panchal",
-  title     : "Software Developer Intern — AI & Automation",
+  title     : "AI Automation Engineer | Full-Stack Developer",
   company   : "Cleanomatics Tech Solutions 🏙️",
   location  : "Gurugram, Haryana 🇮🇳",
-  education : "MCA Graduate 🎓",
+  education : "Master of Computer Applications (MCA) 🎓",
 
   currentWork: [
-    "🤖 AI Automation pipelines (LangGraph)",
-    "🧠 Agentic LLM workflows & RAG systems",
-    "🌐 Full stack apps (React + FastAPI)",
-    "📊 Zoho CRM & B2B outreach automation",
+    "🤖 Production AI agents & LangGraph workflows",
+    "🧠 Multi-agent systems, RAG & MCP-ready architectures",
+    "🌐 Production apps with React, Next.js & FastAPI",
+    "📊 Zoho CRM, AI Studio & business automation",
   ],
 
-  techPhilosophy : "Build fast. Automate smart. Ship clean.",
-  funFact        : "I automate things so I can drink ☕ in peace",
+  techPhilosophy : "Build intelligent software that solves real business problems.",
+  funFact        : "Always exploring new ways to combine AI with real-world automation 🚀",
 };
 ```
 
@@ -183,6 +183,21 @@ const Prince = {
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+<div align="center">
+
+## 🚀 Current Focus
+
+</div>
+
+- 🤖 Building **CTS Echo** – AI-powered Sales & Outreach Platform
+- 🧠 Designing **Multi-Agent AI Systems** with LangGraph
+- 🔗 Exploring **Model Context Protocol (MCP)** and AI Agents
+- 📈 Developing AI-powered CRM & Marketing Automation
+- 🌍 Open to AI Engineering, Full-Stack and Automation opportunities
+
 
 ---
 
